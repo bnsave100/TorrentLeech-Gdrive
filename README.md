@@ -248,6 +248,8 @@ Like if your file name is `gk.txt` uploaded will be what u add in `CUSTOM_FILE_N
 
 ~Only works with direct link/youtube link.No magnet or torrent.~
 
+[![-----------]()](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+
 And also added custom name like...
 
 You have to pass link as 
